@@ -1,6 +1,6 @@
 # Pnuemonia-Detection
 ## Overview
-This project detects the presence or absence of pneumonia disseases in patients through chest x-ray diagonosis. The link to the dataset is shown below: <br>
+This project detects the presence or absence of pneumonia dissease in patients through chest x-ray diagonosis. The link to the dataset is shown below: <br>
 https://www.kaggle.com/datasets/parthachakraborty/pneumonia-chest-x-ray
 
 ## Features
